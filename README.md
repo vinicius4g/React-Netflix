@@ -20,6 +20,7 @@ Data from https://api.themoviedb.org/3
 
 Get your API_KEY and config in Tmdb API_KEY
 
-Run Project: npm start
+Run Project: npm start.
+
 Images of the working project are in the folder: screnshots
 
